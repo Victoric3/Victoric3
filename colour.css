@@ -1,0 +1,55 @@
+.banner{
+    height: 200px;
+    width: 40%;
+    margin-left: 10%;
+    margin-top: 15%;
+    background: red;
+    border-radius: 10px;
+    border: 2px outset black;
+}
+.color{
+    text-transform: uppercase;
+    color: white;
+    margin-top: 50px;
+    margin-left: 195px;
+    position: absolute;
+    font-size: 30px;
+
+}
+.shifted{
+    margin-left: 160px;
+}
+.shifted2{
+    margin-left: 170px;
+}
+.flip{
+    border-radius: 10px;
+    height: 33px;
+    width: 80px;
+    text-transform: uppercase;
+    margin-left: 193px;
+    margin-top: 90px;
+    background: lightgreen;
+    border: 3px outset black;
+}
+.flip:hover{
+    border-radius: 10px;
+    height: 35px;
+    width: 80px;
+    text-transform: uppercase;
+    margin-left: 193px;
+    margin-top: 90px;
+    background: green;
+    border: 3px outset black;
+}
+.flip:active{
+    border-radius: 10px;
+    height: 33px;
+    width: 80px;
+    text-transform: uppercase;
+    margin-left: 193px;
+    margin-top: 90px;
+    background: green;
+    border: 3px outset black;
+    color: red;
+}

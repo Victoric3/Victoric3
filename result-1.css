@@ -1,0 +1,98 @@
+/* body{
+    border: 2px solid #000000;
+} */
+.logo{
+    height: 10%;
+    width: 5%;
+}
+.school{
+    float: left;
+    margin-left: 4%;
+}
+.pageStart{
+    float: left;
+}
+#top{
+    text-transform: capitalize;
+}
+span{
+    text-decoration: underline;
+}
+.span{
+    margin-left: 0.4%;
+}
+table{
+    width: 60%;
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: left;
+    text-transform: capitalize;
+}
+#subject{
+    position: static;
+    width: 35%;
+    float: left;
+}
+#comment{
+    position: static;
+    width: 20%;
+    height: 478.5px;
+    background: lightblue;
+    text-align: center;
+    margin-top: 0px;
+    border: 1px solid #000000;
+    margin-left: 1%;
+    margin-top: 10px;
+
+}
+#attendance{
+    position: static;
+    width: 35%;
+    margin-top: -278.5px;
+    /* float: right; */
+}
+#grade{
+    position: static;
+    width: 35%;
+    margin-top: 10px;
+    float: left;
+}
+
+
+th{
+    border-collapse: collapse;
+    background: blue;
+    padding: 10px;
+    color: white;
+    text-align: center;
+}
+td{
+    background: lightblue;
+    padding: 10px;
+    border-collapse: separate;
+    border-left: 1px solid white;
+    
+}
+#grading{
+    width: 20.2%;
+    margin-left: 448px;
+    position: static;
+}
+.gbody td:nth-child(2){
+    text-align: left;
+    padding-right: 52px;
+
+}
+.gbody td{
+    padding-right: 100px;
+}
+
+caption{
+    background: lightgreen;
+    color: white;
+    padding: 5px;
+    border: 1px solid black
+}
+span{
+    margin-left: 20px;
+}
