@@ -1,7 +1,7 @@
 - 👋 Hi, I’m victor
-- 👀 I’m interested in Ui/Ux design
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on front end projects
+- 👀 I’m interested in react and nodejs
+- 🌱 I’m currently working for alphamagnet
+- 💞️ I’m looking to collaborate on full stack projects
 - 📫 How to reach me +2349139163346
 
 <!---
