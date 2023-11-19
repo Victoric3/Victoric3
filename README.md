@@ -1,8 +1,9 @@
-- 👋 Hi, I’m victor
-- 👀 I’m interested in react and nodejs
-- 🌱 I’m currently working for alphamagnet
+- 👋 Hi, I’m victor chukwujiobi
+- 👀 i'm a fullstack react and nodejs developer
+- 🌱 I’m currently working for alpha3
 - 💞️ I’m looking to collaborate on full stack projects
-- 📫 How to reach me +2349139163346
+- 📫 How to reach me: +2349139163346
+- 📫 How to reach me: chukwujiobivictoric@gmail.com
 
 <!---
 Victoric3/Victoric3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
