@@ -1,6 +1,5 @@
 - 👋 Hi, I’m victor chukwujiobi
 - 👀 i'm a fullstack react and nodejs developer
-- 🌱 I’m currently working for alpha3
 - 💞️ I’m looking to collaborate on full stack projects
 - 📫 How to reach me: +2349139163346
 - 📫 How to reach me: chukwujiobivictoric@gmail.com
